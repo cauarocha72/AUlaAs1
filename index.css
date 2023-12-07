@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: linear-gradient(black 100%, rgb(230,235,237)80%);
+    color:red
+}
+h1{
+    font-family: bold;
+    font-size:80px ;
+    color:whitesmoke;
+}
+h2{
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: 40px; ;
+}
